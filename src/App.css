@@ -17,6 +17,10 @@
   }
 }
 
+span {
+  color: rgb(171, 75, 219);
+}
+
 .hero {
   position: relative;
 

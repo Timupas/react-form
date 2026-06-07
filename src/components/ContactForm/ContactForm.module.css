@@ -1,0 +1,21 @@
+input{
+  background-color: rgb(171, 75, 219);
+  border: none;
+  border-radius: 10px;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+.title{
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);
+}
+
+.addButton{
+background-color: rgb(79, 255, 161);
+color: rgb(255, 255, 255);
+border: none;
+padding: 7px;
+border-radius: 7px;
+  margin-bottom: 20px;
+}
